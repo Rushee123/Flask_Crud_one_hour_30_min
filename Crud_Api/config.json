@@ -1,0 +1,9 @@
+{
+    "mysql_congig": {
+        "host":"localhost",
+        "user":"root", "password":"Enter your Password",
+        "database":"auth_practical","port":3306
+    },
+    "server_ip":"localhost",
+    "port": 7074
+}
